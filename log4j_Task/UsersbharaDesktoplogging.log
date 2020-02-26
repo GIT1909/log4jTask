@@ -1,0 +1,28 @@
+2020-02-26 13:49:54,883(YYYY-MM-DD HH:mm:ss) INFO  HouseBuildingCostFinder.class(1):41 - 250000.0
+2020-02-26 13:49:54,891(YYYY-MM-DD HH:mm:ss) ERROR HouseBuildingCostFinder.class(1):42 - There will be corrrection
+2020-02-26 13:49:54,891(YYYY-MM-DD HH:mm:ss) WARN  HouseBuildingCostFinder.class(1):43 - there is something wrong in code
+2020-02-26 13:49:54,892(YYYY-MM-DD HH:mm:ss) FATAL HouseBuildingCostFinder.class(1):44 - there is any case of abort
+2020-02-26 13:50:21,667(YYYY-MM-DD HH:mm:ss) INFO  HouseBuildingCostFinder.class(1):41 - 250000.0
+2020-02-26 13:50:21,677(YYYY-MM-DD HH:mm:ss) ERROR HouseBuildingCostFinder.class(1):42 - There will be corrrection
+2020-02-26 13:50:21,677(YYYY-MM-DD HH:mm:ss) WARN  HouseBuildingCostFinder.class(1):43 - there is something wrong in code
+2020-02-26 13:50:21,678(YYYY-MM-DD HH:mm:ss) FATAL HouseBuildingCostFinder.class(1):44 - there is any case of abort
+2020-02-26 13:50:21,682(YYYY-MM-DD HH:mm:ss) INFO  Main.class(1):22 - 2.0
+2020-02-26 13:50:21,683(YYYY-MM-DD HH:mm:ss) ERROR Main.class(1):23 - correction is needed
+2020-02-26 13:50:21,683(YYYY-MM-DD HH:mm:ss) WARN  Main.class(1):24 - there is something wrong in code
+2020-02-26 13:50:21,684(YYYY-MM-DD HH:mm:ss) FATAL Main.class(1):25 - there is any case of abort
+2020-02-26 13:50:21,684(YYYY-MM-DD HH:mm:ss) INFO  Main.class(1):10 - 60.0
+2020-02-26 13:50:21,685(YYYY-MM-DD HH:mm:ss) ERROR Main.class(1):11 - correction is needed
+2020-02-26 13:50:21,685(YYYY-MM-DD HH:mm:ss) WARN  Main.class(1):12 - there is something wrong in code
+2020-02-26 13:50:21,686(YYYY-MM-DD HH:mm:ss) FATAL Main.class(1):13 - there is any case of abort
+2020-02-26 13:54:14,761(YYYY-MM-DD HH:mm:ss) INFO  HouseBuildingCostFinder.class(1):41 - 250000.0
+2020-02-26 13:54:14,766(YYYY-MM-DD HH:mm:ss) ERROR HouseBuildingCostFinder.class(1):42 - There will be corrrection
+2020-02-26 13:54:14,767(YYYY-MM-DD HH:mm:ss) WARN  HouseBuildingCostFinder.class(1):43 - there is something wrong in code
+2020-02-26 13:54:14,767(YYYY-MM-DD HH:mm:ss) FATAL HouseBuildingCostFinder.class(1):44 - there is any case of abort
+2020-02-26 13:54:14,771(YYYY-MM-DD HH:mm:ss) INFO  Main.class(1):22 - 2.0
+2020-02-26 13:54:14,771(YYYY-MM-DD HH:mm:ss) ERROR Main.class(1):23 - correction is needed
+2020-02-26 13:54:14,771(YYYY-MM-DD HH:mm:ss) WARN  Main.class(1):24 - there is something wrong in code
+2020-02-26 13:54:14,772(YYYY-MM-DD HH:mm:ss) FATAL Main.class(1):25 - there is any case of abort
+2020-02-26 13:54:14,773(YYYY-MM-DD HH:mm:ss) INFO  Main.class(1):10 - 60.0
+2020-02-26 13:54:14,773(YYYY-MM-DD HH:mm:ss) ERROR Main.class(1):11 - correction is needed
+2020-02-26 13:54:14,773(YYYY-MM-DD HH:mm:ss) WARN  Main.class(1):12 - there is something wrong in code
+2020-02-26 13:54:14,774(YYYY-MM-DD HH:mm:ss) FATAL Main.class(1):13 - there is any case of abort
